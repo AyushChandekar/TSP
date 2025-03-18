@@ -1,3 +1,7 @@
+#Name: Ayush Prakash Chandekar
+#Roll No: 202301100034
+#email: 202301100034@mitaoe.ac.in
+
 import mysql.connector
 
 connection = mysql.connector.connect(
